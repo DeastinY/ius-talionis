@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="de" xml:lang="de">
+<head>
+<title>Ius Talionis - Official Website</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="author"           content="Ius Talionis">
+<meta name="publisher"        content="Ius Talionis">
+<meta name="copyright"        content="Ius Talionis">
+<meta name="keywords"         content="Ius Talionis, Black Metal, Aachen, Metal, Eleutheromania, Viator Noctis, Koshmar, Eremos, N&aacute;r, Ryu">
+<meta name="description"      content="This is the official Band-Website of the german Black Metal band Ius Talionis from Aachen.">
+<meta name="page-topic"       content="Music">
+<meta name="page-type"        content="Band-Website">
+<meta name="language"         content="Deutsch, English">
+<meta name="revisit"          content="After 30 days">
+<meta name="robots"           content="INDEX">
+<meta property="og:image" content="graphics/elements/metapic.png">
+
+<link rel="stylesheet" type="text/css" href="frame.css">
+<link href="css/lightbox.css" type="text/css" rel="stylesheet">
+
+<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="js/lightbox.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<h2>MANTAR und Ius Talionis (Musikbunker Aachen) - 20.06.2019</h2>
+
+<p><img src="graphics/elements/hr.png" alt="" border="0" width="606" height="36"></p>
+
+<a href="fotos/live/Mubu/Mubu_1.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_1_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_2.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_2_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_3.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_3_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_4.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_4_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_5.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_5_t.jpg" alt="" border="2" width="130" height="87"></a><br>
+
+<a href="fotos/live/Mubu/Mubu_6.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_6_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_7.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_7_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_8.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_8_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_9.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_9_t.jpg" alt="" border="2" width="130" height="87"></a><br>
+
+<a href="fotos/live/Mubu/Mubu_10.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_10_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_11.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_11_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_12.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_12_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_13.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_13_t.jpg" alt="" border="2" width="130" height="87"></a><br>
+
+<a href="fotos/live/Mubu/Mubu_14.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_14_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_15.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_15_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_16.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_16_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_17.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_17_t.jpg" alt="" border="2" width="130" height="87"></a><br>
+
+<a href="fotos/live/Mubu/Mubu_18.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_18_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_19.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_19_t.jpg" alt="" border="2" width="130" height="87"></a>
+<a href="fotos/live/Mubu/Mubu_20.jpg" data-lightbox="or"><img src="fotos/live/Mubu/Mubuthumbs/Mubu_20_t.jpg" alt="" border="2" width="130" height="87"></a>
+
+<p><img src="graphics/elements/hr.png" alt="" border="0" width="606" height="36"></p>
+
+<a href="de_medien_livefotos.htm" target="main"><big>Zur&uuml;ck</big></a>
+
+<p><img src="graphics/elements/eye.png" alt="" border="0" width="226" height="276"></p>
+
+</body>
+
+</html>
